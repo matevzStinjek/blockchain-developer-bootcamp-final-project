@@ -9,10 +9,13 @@ An automated reward system for hierarchically organised groups of agents
 4. The reward system is triggered, dishing out rewards to the agent and all their superiors
 
 The Flow of rewards
+
 ![alt text](reward-flow.jpeg "Reward flow")
 
 Interaction in centralized organizations
+
 ![alt text](centralized-org.jpeg "Centralized organization")
 
 Interaction in decentralized organizations
+
 ![alt text](decentralized-org.jpeg "Decentaralized organization")
